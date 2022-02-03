@@ -4,7 +4,7 @@
 
 ### **Título**
 
-Investigação de uma abordagem híbrida PSO-VND para o problema JSSP
+Investigação de estruturas de vizinhança no contexto de uma abordagem híbrida PSO-VND aplicada ao JSSP
 
 ## Tecnologias Utiizadas
 
